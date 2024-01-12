@@ -1,5 +1,5 @@
 /*
-Laura Thompson
+Laurence Thompson
 CS332, FA 2020
 
 To Compile: gcc -o process_pipe process_pipe.c

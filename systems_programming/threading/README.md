@@ -1,4 +1,4 @@
-Laura Thompson  
+Laurence Thompson  
 CS 332, FA 2020
 
 **To Compile:** `gcc -Wall -o thread_sum thread_sum.c -lpthread`  

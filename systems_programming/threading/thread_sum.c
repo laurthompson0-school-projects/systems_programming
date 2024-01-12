@@ -1,5 +1,5 @@
 /* 
-Laura Thompson
+Laurence Thompson
 CS 332, FA 2020
 Lab 12, 11/18/2020
 

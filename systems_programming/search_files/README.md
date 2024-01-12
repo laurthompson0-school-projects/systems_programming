@@ -1,4 +1,4 @@
-Laura Thompson  
+Laurence Thompson  
 CS 332, FA 2020
 
 This program prints the file hierarchy for a
